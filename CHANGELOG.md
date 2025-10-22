@@ -5,6 +5,7 @@
 ## [0.17.1] - 2025-10-22
 
 - Bump Rust to 1.90.0. ([#168])
+- Bump binaryen to 124. ([#168])
 
 [#168]: https://github.com/CosmWasm/optimizer/pull/168
 
